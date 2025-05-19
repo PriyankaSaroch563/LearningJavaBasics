@@ -7,15 +7,16 @@ public class Lab004_Comments {
 
         System.out.println("This is Comments");
 
-        //This is single line comments
+        //We can have unlimited line of comments in the program, even 100's of line
+
         //This is single line comments
         // This is single line comments
 
-      /*  This is Multi-Line comments in Java
-      *
-      *
-      *that can be used for big code comments
-       */
+        /*  This is Multi-Line comments in Java
+          *
+          *
+          *that can be used for big code comments, we can keep the comments anywhere
+           */
 
 
     }
