@@ -1,8 +1,6 @@
 package ex_01_JavaBasics;
 
-import java.sql.SQLOutput;
-
-public class Lab008_Maths {
+public class Lab008_Common_Maths {
 
     public static void main(String[] args) {
         //Maths Calculations
