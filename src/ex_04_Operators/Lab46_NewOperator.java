@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lab_46_NewOperator {
+public class Lab46_NewOperator {
     public static void main(String[] args) {
 
         //  New operator

@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class LAb43_OR_AND_GATES {
+public class Lab43_OR_AND_GATES {
     public static void main(String[] args) {
         // || - OR
 

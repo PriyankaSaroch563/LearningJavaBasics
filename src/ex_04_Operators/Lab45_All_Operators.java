@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lab_45_All_Operators {
+public class Lab45_All_Operators {
     public static void main(String[] args) {
         boolean b1 = true;
         int a = 10;

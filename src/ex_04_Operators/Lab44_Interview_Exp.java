@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lab_44_Interview_Exp {
+public class Lab44_Interview_Exp {
     public static void main(String[] args) {
         int balaji_salary = 12;
         boolean b = !(balaji_salary > 10 || balaji_salary < 5);

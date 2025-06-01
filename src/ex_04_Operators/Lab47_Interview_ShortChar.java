@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lab_47_Interview_ShortChar {
+public class Lab47_Interview_ShortChar {
     public static void main(String[] args) {
         short s = 10;
         char c = 'A';//65
