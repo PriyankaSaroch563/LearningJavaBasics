@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lab48_Interview_Char_ASCII {
+public class Lab49_Interview_Char_ASCII {
     public static void main(String[] args) {
         char a1 = 'A'; // ASCII -> 65
         char b1 = 'B'; // 66

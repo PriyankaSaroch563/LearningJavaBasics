@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lab49_Interview_CompareAscii_Value {
+public class Lab50_Interview_CompareAscii_Value {
     public static void main(String[] args) {
         System.out.println('A'==65);
 
